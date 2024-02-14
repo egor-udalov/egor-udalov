@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github.com/egor-udalov/egor-udalov/blob/main/GitHubGIF2.gif)
 
 <!--
 **egor-udalov/egor-udalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
