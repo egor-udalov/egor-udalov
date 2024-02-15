@@ -1,4 +1,8 @@
 ![](https://github.com/egor-udalov/egor-udalov/blob/main/GitHubGIF2.gif)
+<br>
+<br>
+<p>I am a novice developer. At this stage of my life, I use: <p/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,gulp,react,linux" />
 
 <!--
 **egor-udalov/egor-udalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
